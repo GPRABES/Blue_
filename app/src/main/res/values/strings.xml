@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blue</string>
+    <string name="prabesh_ghimire">Prabesh Ghimire</string>
+    <string name="job_title">Attendant, Employee Residences</string>
+    <string name="company">Atlantis The Palm</string>
+
+    //for menu
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+</resources>
